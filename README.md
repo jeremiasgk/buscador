@@ -1,3 +1,3 @@
 BUSCADOR
 
-Web project for a search bar with filters
+Web project for a search bar with filters.
